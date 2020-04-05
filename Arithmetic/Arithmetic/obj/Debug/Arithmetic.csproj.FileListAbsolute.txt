@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Form1.resources
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Properties.Resources.resources
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Asus\Desktop\Arithmetic\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
